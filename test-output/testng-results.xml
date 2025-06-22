@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[========== 1° Test ==========]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-37-102.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-37-102.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[Title Matches]]>
+    </line>
+    <line>
+      <![CDATA[Text Matches]]>
+    </line>
+    <line>
+      <![CDATA[Logging in...]]>
+    </line>
+    <line>
+      <![CDATA[Delete Account is Present]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-39-269.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-39-269.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[Logging out...]]>
+    </line>
+    <line>
+      <![CDATA[Element is not Present]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-39-970.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-39-970.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[========== 2° Test ==========]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-44-34.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-44-34.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[Title Matches]]>
+    </line>
+    <line>
+      <![CDATA[Text Matches]]>
+    </line>
+    <line>
+      <![CDATA[Text Matches]]>
+    </line>
+    <line>
+      <![CDATA[Logging in failed.]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-45-845.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-45-845.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[========== 3° Test ==========]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-49-956.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-49-956.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[Title Matches]]>
+    </line>
+    <line>
+      <![CDATA[Text Matches]]>
+    </line>
+    <line>
+      <![CDATA[Attemping sign up...]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-51-358.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-51-358.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[Text Matches]]>
+    </line>
+    <line>
+      <![CDATA[Success]]>
+    </line>
+    <line>
+      <![CDATA[Filled fields]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-53-194.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-53-194.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[Text Matches]]>
+    </line>
+    <line>
+      <![CDATA[Success]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-54-158.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-54-158.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[========== 4° Test ==========]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-59-409.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-59-409.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[Title Matches]]>
+    </line>
+    <line>
+      <![CDATA[Text Matches]]>
+    </line>
+    <line>
+      <![CDATA[Navigating to place...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on item...]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-02-756.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-02-756.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[Text Matches]]>
+    </line>
+    <line>
+      <![CDATA[========== 5° Test ==========]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-07-773.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-07-773.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[Title Matches]]>
+    </line>
+    <line>
+      <![CDATA[Text Matches]]>
+    </line>
+    <line>
+      <![CDATA[Fields and file uploaded]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-09-304.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-09-304.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[Alert accepted]]>
+    </line>
+    <line>
+      <![CDATA[Text Matches]]>
+    </line>
+    <line>
+      <![CDATA[========== 6° Test ==========]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-13-620.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-13-620.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[Title Matches]]>
+    </line>
+    <line>
+      <![CDATA[Text Matches]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 1: Register User]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 2: Login User with correct email and password]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 3: Login User with incorrect email and password]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 4: Logout User]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 5: Register User with existing email]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 6: Contact Us Form]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 7: Verify Test Cases Page]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 8: Verify All Products and product detail page]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 9: Search Product]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 10: Verify Subscription in home page]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 11: Verify Subscription in Cart page]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 12: Add Products in Cart]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 13: Verify Product quantity in Cart]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 14: Place Order: Register while Checkout]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 15: Place Order: Register before Checkout]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 16: Place Order: Login before Checkout]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 17: Remove Products From Cart]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 18: View Category Products]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 19: View & Cart Brand Products]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 20: Search Products and Verify Cart After Login]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 21: Add review on product]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 22: Add to cart from Recommended items]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 23: Verify address details in checkout page]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 24: Download Invoice after purchase order]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 25: Verify Scroll Up using 'Arrow' button and Scroll Down functionality]]>
+    </line>
+    <line>
+      <![CDATA[Test Case 26: Verify Scroll Up without 'Arrow' button and Scroll Down functionality]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-15-199.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-15-199.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[========== 7° Test ==========]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-19-371.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-19-371.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[Title Matches]]>
+    </line>
+    <line>
+      <![CDATA[Logging in...]]>
+    </line>
+    <line>
+      <![CDATA[Success]]>
+    </line>
+    <line>
+      <![CDATA[Proceed To Checkout is Present]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-22-786.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-22-786.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[Text Matches]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-23-544.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-23-544.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[Item: Sleeveless Dress
+Women > Dress]]>
+    </line>
+    <line>
+      <![CDATA[Price: Rs. 1000]]>
+    </line>
+    <line>
+      <![CDATA[Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Item total: Rs. 1000]]>
+    </line>
+    <line>
+      <![CDATA[Item: Stylish Dress
+Women > Dress]]>
+    </line>
+    <line>
+      <![CDATA[Price: Rs. 1500]]>
+    </line>
+    <line>
+      <![CDATA[Quantity: 1]]>
+    </line>
+    <line>
+      <![CDATA[Item total: Rs. 1500]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-24-67.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-24-67.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+    <line>
+      <![CDATA[Pay and Confirm Order is Enabled]]>
+    </line>
+    <line>
+      <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-24-711.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-24-711.png' height='70%' width='70%'/> </a>  ]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-06-22T00:19:34 CST" name="Test-Suite" finished-at="2025-06-22T00:20:26 CST" duration-ms="51866">
+    <groups>
+    </groups>
+    <test started-at="2025-06-22T00:19:34 CST" name="Homeworks" finished-at="2025-06-22T00:20:26 CST" duration-ms="51866">
+      <class name="Tests">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:Tests@79924b]" started-at="2025-06-22T00:19:34 CST" name="setUp" finished-at="2025-06-22T00:19:35 CST" duration-ms="1433" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=Tests.firstTest()[pri:1, instance:Tests@79924b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="firstTest()[pri:1, instance:Tests@79924b]" started-at="2025-06-22T00:19:35 CST" name="firstTest" finished-at="2025-06-22T00:19:39 CST" duration-ms="4353" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[========== 1° Test ==========]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-37-102.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-37-102.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+            <line>
+              <![CDATA[Title Matches]]>
+            </line>
+            <line>
+              <![CDATA[Text Matches]]>
+            </line>
+            <line>
+              <![CDATA[Logging in...]]>
+            </line>
+            <line>
+              <![CDATA[Delete Account is Present]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-39-269.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-39-269.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+            <line>
+              <![CDATA[Logging out...]]>
+            </line>
+            <line>
+              <![CDATA[Element is not Present]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-39-970.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-39-970.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Tests@79924b]" started-at="2025-06-22T00:19:39 CST" name="tearDown" finished-at="2025-06-22T00:19:41 CST" duration-ms="1260" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=firstTest status=SUCCESS method=Tests.firstTest()[pri:1, instance:Tests@79924b] output=========== 1° Test ==========]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:Tests@79924b]" started-at="2025-06-22T00:19:41 CST" name="setUp" finished-at="2025-06-22T00:19:42 CST" duration-ms="1022" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=Tests.secondTest()[pri:2, instance:Tests@79924b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="secondTest()[pri:2, instance:Tests@79924b]" started-at="2025-06-22T00:19:42 CST" name="secondTest" finished-at="2025-06-22T00:19:45 CST" duration-ms="3589" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[========== 2° Test ==========]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-44-34.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-44-34.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+            <line>
+              <![CDATA[Title Matches]]>
+            </line>
+            <line>
+              <![CDATA[Text Matches]]>
+            </line>
+            <line>
+              <![CDATA[Text Matches]]>
+            </line>
+            <line>
+              <![CDATA[Logging in failed.]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-45-845.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-45-845.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Tests@79924b]" started-at="2025-06-22T00:19:45 CST" name="tearDown" finished-at="2025-06-22T00:19:47 CST" duration-ms="1300" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=secondTest status=SUCCESS method=Tests.secondTest()[pri:2, instance:Tests@79924b] output=========== 2° Test ==========]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:Tests@79924b]" started-at="2025-06-22T00:19:47 CST" name="setUp" finished-at="2025-06-22T00:19:48 CST" duration-ms="1008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=Tests.thirdTest()[pri:3, instance:Tests@79924b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="thirdTest()[pri:3, instance:Tests@79924b]" started-at="2025-06-22T00:19:48 CST" name="thirdTest" finished-at="2025-06-22T00:19:55 CST" duration-ms="6901" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[========== 3° Test ==========]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-49-956.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-49-956.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+            <line>
+              <![CDATA[Title Matches]]>
+            </line>
+            <line>
+              <![CDATA[Text Matches]]>
+            </line>
+            <line>
+              <![CDATA[Attemping sign up...]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-51-358.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-51-358.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+            <line>
+              <![CDATA[Text Matches]]>
+            </line>
+            <line>
+              <![CDATA[Success]]>
+            </line>
+            <line>
+              <![CDATA[Filled fields]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-53-194.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-53-194.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+            <line>
+              <![CDATA[Text Matches]]>
+            </line>
+            <line>
+              <![CDATA[Success]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-54-158.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-54-158.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- thirdTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Tests@79924b]" started-at="2025-06-22T00:19:55 CST" name="tearDown" finished-at="2025-06-22T00:19:56 CST" duration-ms="1307" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=thirdTest status=SUCCESS method=Tests.thirdTest()[pri:3, instance:Tests@79924b] output=========== 3° Test ==========]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:Tests@79924b]" started-at="2025-06-22T00:19:56 CST" name="setUp" finished-at="2025-06-22T00:19:57 CST" duration-ms="1106" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=Tests.fourthTest()[pri:4, instance:Tests@79924b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fourthTest()[pri:4, instance:Tests@79924b]" started-at="2025-06-22T00:19:57 CST" name="fourthTest" finished-at="2025-06-22T00:20:03 CST" duration-ms="6243" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[========== 4° Test ==========]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-59-409.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-19-59-409.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+            <line>
+              <![CDATA[Title Matches]]>
+            </line>
+            <line>
+              <![CDATA[Text Matches]]>
+            </line>
+            <line>
+              <![CDATA[Navigating to place...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on item...]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-02-756.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-02-756.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+            <line>
+              <![CDATA[Text Matches]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- fourthTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Tests@79924b]" started-at="2025-06-22T00:20:03 CST" name="tearDown" finished-at="2025-06-22T00:20:04 CST" duration-ms="1266" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fourthTest status=SUCCESS method=Tests.fourthTest()[pri:4, instance:Tests@79924b] output=========== 4° Test ==========]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:Tests@79924b]" started-at="2025-06-22T00:20:04 CST" name="setUp" finished-at="2025-06-22T00:20:05 CST" duration-ms="991" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=Tests.fifthTest()[pri:5, instance:Tests@79924b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fifthTest()[pri:5, instance:Tests@79924b]" started-at="2025-06-22T00:20:05 CST" name="fifthTest" finished-at="2025-06-22T00:20:09 CST" duration-ms="3460" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[========== 5° Test ==========]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-07-773.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-07-773.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+            <line>
+              <![CDATA[Title Matches]]>
+            </line>
+            <line>
+              <![CDATA[Text Matches]]>
+            </line>
+            <line>
+              <![CDATA[Fields and file uploaded]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-09-304.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-09-304.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+            <line>
+              <![CDATA[Alert accepted]]>
+            </line>
+            <line>
+              <![CDATA[Text Matches]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- fifthTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Tests@79924b]" started-at="2025-06-22T00:20:09 CST" name="tearDown" finished-at="2025-06-22T00:20:10 CST" duration-ms="1342" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fifthTest status=SUCCESS method=Tests.fifthTest()[pri:5, instance:Tests@79924b] output=========== 5° Test ==========]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:Tests@79924b]" started-at="2025-06-22T00:20:10 CST" name="setUp" finished-at="2025-06-22T00:20:11 CST" duration-ms="1011" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=Tests.sixthTest()[pri:6, instance:Tests@79924b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="sixthTest()[pri:6, instance:Tests@79924b]" started-at="2025-06-22T00:20:11 CST" name="sixthTest" finished-at="2025-06-22T00:20:15 CST" duration-ms="3413" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[========== 6° Test ==========]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-13-620.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-13-620.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+            <line>
+              <![CDATA[Title Matches]]>
+            </line>
+            <line>
+              <![CDATA[Text Matches]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 1: Register User]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 2: Login User with correct email and password]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 3: Login User with incorrect email and password]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 4: Logout User]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 5: Register User with existing email]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 6: Contact Us Form]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 7: Verify Test Cases Page]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 8: Verify All Products and product detail page]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 9: Search Product]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 10: Verify Subscription in home page]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 11: Verify Subscription in Cart page]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 12: Add Products in Cart]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 13: Verify Product quantity in Cart]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 14: Place Order: Register while Checkout]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 15: Place Order: Register before Checkout]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 16: Place Order: Login before Checkout]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 17: Remove Products From Cart]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 18: View Category Products]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 19: View & Cart Brand Products]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 20: Search Products and Verify Cart After Login]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 21: Add review on product]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 22: Add to cart from Recommended items]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 23: Verify address details in checkout page]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 24: Download Invoice after purchase order]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 25: Verify Scroll Up using 'Arrow' button and Scroll Down functionality]]>
+            </line>
+            <line>
+              <![CDATA[Test Case 26: Verify Scroll Up without 'Arrow' button and Scroll Down functionality]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-15-199.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-15-199.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sixthTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Tests@79924b]" started-at="2025-06-22T00:20:15 CST" name="tearDown" finished-at="2025-06-22T00:20:16 CST" duration-ms="1300" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sixthTest status=SUCCESS method=Tests.sixthTest()[pri:6, instance:Tests@79924b] output=========== 6° Test ==========]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:Tests@79924b]" started-at="2025-06-22T00:20:16 CST" name="setUp" finished-at="2025-06-22T00:20:17 CST" duration-ms="1061" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=Tests.seventhTest()[pri:7, instance:Tests@79924b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="seventhTest()[pri:7, instance:Tests@79924b]" started-at="2025-06-22T00:20:17 CST" name="seventhTest" finished-at="2025-06-22T00:20:24 CST" duration-ms="7152" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[========== 7° Test ==========]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-19-371.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-19-371.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+            <line>
+              <![CDATA[Title Matches]]>
+            </line>
+            <line>
+              <![CDATA[Logging in...]]>
+            </line>
+            <line>
+              <![CDATA[Success]]>
+            </line>
+            <line>
+              <![CDATA[Proceed To Checkout is Present]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-22-786.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-22-786.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+            <line>
+              <![CDATA[Text Matches]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-23-544.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-23-544.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+            <line>
+              <![CDATA[Item: Sleeveless Dress
+Women > Dress]]>
+            </line>
+            <line>
+              <![CDATA[Price: Rs. 1000]]>
+            </line>
+            <line>
+              <![CDATA[Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Item total: Rs. 1000]]>
+            </line>
+            <line>
+              <![CDATA[Item: Stylish Dress
+Women > Dress]]>
+            </line>
+            <line>
+              <![CDATA[Price: Rs. 1500]]>
+            </line>
+            <line>
+              <![CDATA[Quantity: 1]]>
+            </line>
+            <line>
+              <![CDATA[Item total: Rs. 1500]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-24-67.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-24-67.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+            <line>
+              <![CDATA[Pay and Confirm Order is Enabled]]>
+            </line>
+            <line>
+              <![CDATA[ <a href='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-24-711.png'> <img src='C:\Users\Dan64Z\Desktop\SeleniumZyed\SeleniumTests\src\test\screenshots\06-22-2025_0-20-24-711.png' height='70%' width='70%'/> </a>  ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- seventhTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Tests@79924b]" started-at="2025-06-22T00:20:24 CST" name="tearDown" finished-at="2025-06-22T00:20:26 CST" duration-ms="1290" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=seventhTest status=SUCCESS method=Tests.seventhTest()[pri:7, instance:Tests@79924b] output=========== 7° Test ==========]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests -->
+    </test> <!-- Homeworks -->
+  </suite> <!-- Test-Suite -->
+</testng-results>
